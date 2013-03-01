@@ -1,0 +1,18 @@
+difficulty 0
+size 800 600
+FPS 60
+shootspeed 3
+move
+	up E
+	down J 
+	left Q
+	right K
+endmove
+
+aim
+	up &
+	down (
+	left %
+	right '
+endaim
+
