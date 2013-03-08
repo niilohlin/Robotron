@@ -4,6 +4,7 @@ import javax.swing.JFrame;
 public class Main extends JFrame {
 	public static Main main;
 	public static Game game;
+	
 	public Main()
 	{
 		setResizable(false);

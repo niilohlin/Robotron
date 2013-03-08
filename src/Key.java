@@ -1,6 +1,6 @@
 
 public class Key {
-	// A little hack think of this as a C struct or a python namedtuple
+	// A little hack, think of this as a C struct or a python namedtuple
 	public Key(){}
 	public Key(KeyType type, int key)
 	{
